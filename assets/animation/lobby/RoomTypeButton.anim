@@ -1,0 +1,119 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "RoomType",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "TopLight": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -50
+            },
+            {
+              "frame": 3,
+              "value": 45
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "BottomLight": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 50
+            },
+            {
+              "frame": 3,
+              "value": -45
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Label": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 1.2
+            },
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 1.5,
+              "value": 1.2
+            },
+            {
+              "frame": 2,
+              "value": 1
+            },
+            {
+              "frame": 2.5,
+              "value": 1.2
+            },
+            {
+              "frame": 3,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 1.2
+            },
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 1.5,
+              "value": 1.2
+            },
+            {
+              "frame": 2,
+              "value": 1
+            },
+            {
+              "frame": 2.5,
+              "value": 1.2
+            },
+            {
+              "frame": 3,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

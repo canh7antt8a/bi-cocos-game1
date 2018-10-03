@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ecc6ec1b-6dc0-46ae-9149-0808290b99ef",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "AtlasMiniGame1": {
+      "ver": "1.0.3",
+      "uuid": "252b76fa-3396-4818-b804-937495dbe5bb",
+      "rawTextureUuid": "ecc6ec1b-6dc0-46ae-9149-0808290b99ef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 888,
+      "height": 889,
+      "rawWidth": 893,
+      "rawHeight": 893,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

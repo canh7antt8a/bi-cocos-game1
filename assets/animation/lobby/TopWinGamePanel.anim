@@ -1,0 +1,135 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "TopWinGamePanel",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Center/RightPanel": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 240
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 480
+            }
+          ]
+        },
+        "comps": {
+          "cc.Widget": {
+            "right": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "Center/PickBettingPanel": {
+        "props": {},
+        "comps": {
+          "cc.Widget": {
+            "left": [
+              {
+                "frame": 0,
+                "value": 240
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": 0
+              }
+            ],
+            "right": [
+              {
+                "frame": 0,
+                "value": 240
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": 480
+              }
+            ]
+          }
+        }
+      },
+      "Center/LeftPanel": {
+        "comps": {
+          "cc.Widget": {
+            "left": [
+              {
+                "frame": 0,
+                "value": 0,
+                "curve": "quintOut"
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": -240
+              }
+            ]
+          }
+        }
+      },
+      "Center/RightPanel/RankResult/RankColumns/AvatarLabel": {
+        "comps": {
+          "cc.Widget": {
+            "right": [
+              {
+                "frame": 0,
+                "value": 199.5
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": 429.9000000000001
+              }
+            ]
+          }
+        }
+      },
+      "Center/RightPanel/RankResult/RankColumns/NameLabel": {
+        "comps": {
+          "cc.Widget": {
+            "right": [
+              {
+                "frame": 0,
+                "value": 145.5
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": 375.9
+              }
+            ]
+          }
+        }
+      },
+      "Center/RightPanel/RankResult/RankColumns/ScoreLabel": {
+        "comps": {
+          "cc.Widget": {
+            "left": [
+              {
+                "frame": 0,
+                "value": 191.5
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": 421.9
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

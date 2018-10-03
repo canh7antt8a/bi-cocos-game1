@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Profile",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Profile/Background/ContentLeft": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -800,
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -427
+            }
+          ]
+        }
+      },
+      "Profile/Background/ContentRight": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1100,
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 166
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

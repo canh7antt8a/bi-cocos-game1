@@ -1,0 +1,11 @@
+Edit "<path-to-project>/.git/config" file:
+
+=========================================
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = false
+=========================================

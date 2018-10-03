@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5a86a809-a13e-418e-875c-f1b53cc3bb8b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BgShowBiz": {
+      "ver": "1.0.3",
+      "uuid": "1a9f55f1-729e-4f02-ab15-89b5ef6e819c",
+      "rawTextureUuid": "5a86a809-a13e-418e-875c-f1b53cc3bb8b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1424,
+      "height": 891,
+      "rawWidth": 1424,
+      "rawHeight": 891,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

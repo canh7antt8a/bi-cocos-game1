@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "DenTronNhapNhay",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.35,
+  "sample": 60,
+  "speed": 2,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5cef6ad4-6b3f-4a6a-88e9-8da827eca9bf"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "4ab2b40e-36d5-4328-9780-2230eb3567ac"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "5cef6ad4-6b3f-4a6a-88e9-8da827eca9bf"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "4ab2b40e-36d5-4328-9780-2230eb3567ac"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "5cef6ad4-6b3f-4a6a-88e9-8da827eca9bf"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "rotation": [
+        {
+          "frame": 1.3333333333333333,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

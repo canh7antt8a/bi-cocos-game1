@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3c267148-9a91-4bfb-8405-bc56f70007d3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "AtlasSlotHoaQua": {
+      "ver": "1.0.3",
+      "uuid": "ee6637bf-9223-4bc7-9159-358d489ced7b",
+      "rawTextureUuid": "3c267148-9a91-4bfb-8405-bc56f70007d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1880,
+      "height": 1880,
+      "rawWidth": 1880,
+      "rawHeight": 1880,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

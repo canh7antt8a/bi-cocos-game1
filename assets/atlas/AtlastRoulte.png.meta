@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c4468ece-350c-422e-8bcd-7e1bfa185399",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "AtlastRoulte": {
+      "ver": "1.0.3",
+      "uuid": "a91ab2d7-6070-4dc6-8662-90d787c6d30b",
+      "rawTextureUuid": "c4468ece-350c-422e-8bcd-7e1bfa185399",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 569,
+      "height": 984,
+      "rawWidth": 573,
+      "rawHeight": 988,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

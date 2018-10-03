@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Win",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": 1.02
+        },
+        {
+          "frame": 0.25,
+          "value": 1.15
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": 1.02
+        },
+        {
+          "frame": 0.25,
+          "value": 1.15
+        }
+      ]
+    }
+  },
+  "events": []
+}

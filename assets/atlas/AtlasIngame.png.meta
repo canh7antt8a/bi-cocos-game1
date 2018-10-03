@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ef4d7a61-46ff-42dc-829f-d3b7a81eaebb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "AtlasIngame": {
+      "ver": "1.0.3",
+      "uuid": "13e6e988-44b0-43b6-8793-1f619d442402",
+      "rawTextureUuid": "ef4d7a61-46ff-42dc-829f-d3b7a81eaebb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1283,
+      "height": 1283,
+      "rawWidth": 1283,
+      "rawHeight": 1283,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

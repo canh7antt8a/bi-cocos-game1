@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ddf3c0f6-a528-4aa4-a626-74baf2b00cd4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "AtlasGameSanThuong": {
+      "ver": "1.0.3",
+      "uuid": "6ce9ead8-9b20-49e1-b173-32b5245a6dbf",
+      "rawTextureUuid": "ddf3c0f6-a528-4aa4-a626-74baf2b00cd4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 778,
+      "height": 777,
+      "rawWidth": 782,
+      "rawHeight": 782,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

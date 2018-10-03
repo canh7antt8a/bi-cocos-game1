@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "89ec004f-9664-4bc4-82c1-28cc9af0ee4e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "AtlasNewSlotMiniGame": {
+      "ver": "1.0.3",
+      "uuid": "3f23737b-2969-4a07-8bdd-12289adbdb44",
+      "rawTextureUuid": "89ec004f-9664-4bc4-82c1-28cc9af0ee4e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1451,
+      "height": 1451,
+      "rawWidth": 1455,
+      "rawHeight": 1455,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

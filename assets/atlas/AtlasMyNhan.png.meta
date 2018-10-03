@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "599f89f4-a16d-4223-bfb3-5450e7c295ad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "AtlasMyNhan": {
+      "ver": "1.0.3",
+      "uuid": "cd193ada-e069-464a-b718-f70d8a99db0c",
+      "rawTextureUuid": "599f89f4-a16d-4223-bfb3-5450e7c295ad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1957,
+      "height": 1957,
+      "rawWidth": 1957,
+      "rawHeight": 1957,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

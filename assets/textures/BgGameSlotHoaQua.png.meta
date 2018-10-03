@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8610f0d0-6695-41b6-8c63-e80a6c91715f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BgGameSlotHoaQua": {
+      "ver": "1.0.3",
+      "uuid": "a17ca9e9-dcf5-4f1e-b107-0a35c8be3435",
+      "rawTextureUuid": "8610f0d0-6695-41b6-8c63-e80a6c91715f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1425,
+      "height": 900,
+      "rawWidth": 1425,
+      "rawHeight": 900,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

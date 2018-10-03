@@ -1,0 +1,28 @@
+1. Đặt tên biến, thuộc tính:
+  - theo kiểu camelCase. VD:
+
+    var httpHostUrl;
+    var objectDemo = {
+        helloWord: function () {}
+    };
+
+  - nếu là cocos component thì gán tên của component vào sau tên biến. VD: httpHostEditBox, xuLabel
+
+2. Đặt tên class:
+  - theo kiểu Pascal. VD:
+
+    var Person = function (firstName) {
+        this.firstName = firstName;
+    };
+    Person.prototype.sayHello = function() {
+        console.log("Hello, I'm " + this.firstName);
+    };
+
+3. Đặt tên module:
+  - theo kiểu Pascal. VD: var AuthUser = require('AuthUser')
+
+4. Đặt tên file;
+  - theo kiểu Pascal. VD: NapXien.js
+
+5. Đặt tên folder:
+  - theo kiểu phân cách bằng dấu "_". VD: nap_xien

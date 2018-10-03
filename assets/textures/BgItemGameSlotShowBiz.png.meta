@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8139a80d-0459-4c85-9286-e7c18714d439",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BgItemGameSlotShowBiz": {
+      "ver": "1.0.3",
+      "uuid": "89bbb7d4-35e0-45ad-8d49-7b5698e26ffa",
+      "rawTextureUuid": "8139a80d-0459-4c85-9286-e7c18714d439",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1075,
+      "height": 542,
+      "rawWidth": 1075,
+      "rawHeight": 542,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

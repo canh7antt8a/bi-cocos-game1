@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cc8e42e5-ccf6-4024-916c-ce5bf34ae958",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "AtlasIconGame": {
+      "ver": "1.0.3",
+      "uuid": "e35e4ac6-1189-4bac-b830-bc1ef39c6701",
+      "rawTextureUuid": "cc8e42e5-ccf6-4024-916c-ce5bf34ae958",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5,
+      "offsetY": 25.5,
+      "trimX": 12,
+      "trimY": 2,
+      "width": 1298,
+      "height": 955,
+      "rawWidth": 1312,
+      "rawHeight": 1010,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

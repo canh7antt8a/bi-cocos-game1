@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "59c512a6-3eb7-4e39-a267-548413ec2b72",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "AtlasVongQuay": {
+      "ver": "1.0.3",
+      "uuid": "44ff422b-8bb2-4d50-9d91-c60af1ef140f",
+      "rawTextureUuid": "59c512a6-3eb7-4e39-a267-548413ec2b72",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1016,
+      "height": 1452,
+      "rawWidth": 1020,
+      "rawHeight": 1456,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

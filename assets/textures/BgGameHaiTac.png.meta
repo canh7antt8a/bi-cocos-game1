@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4037fa87-168b-4439-8a0f-fa1e0d73a04a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BgGameHaiTac": {
+      "ver": "1.0.3",
+      "uuid": "d50aaa10-b3ef-4f15-85f0-d3c8090e2496",
+      "rawTextureUuid": "4037fa87-168b-4439-8a0f-fa1e0d73a04a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1425,
+      "height": 900,
+      "rawWidth": 1425,
+      "rawHeight": 900,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

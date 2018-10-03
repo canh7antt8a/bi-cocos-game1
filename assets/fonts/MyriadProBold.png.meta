@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "410f1f74-6bdc-4915-ae3a-77e491ce938f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "MyriadProBold": {
+      "ver": "1.0.3",
+      "uuid": "23aebc24-508c-4c99-86f2-8ffdfbb10319",
+      "rawTextureUuid": "410f1f74-6bdc-4915-ae3a-77e491ce938f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 420,
+      "height": 420,
+      "rawWidth": 421,
+      "rawHeight": 421,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

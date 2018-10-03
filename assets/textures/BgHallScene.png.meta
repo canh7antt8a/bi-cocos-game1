@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6f79bd23-9bba-4703-a73c-260f65a8849a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BgHallScene": {
+      "ver": "1.0.3",
+      "uuid": "fb13d001-9160-433f-8157-9ea73cb4c58e",
+      "rawTextureUuid": "6f79bd23-9bba-4703-a73c-260f65a8849a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1425,
+      "height": 900,
+      "rawWidth": 1425,
+      "rawHeight": 900,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ebe3ad2c-1eca-4e58-b893-51f6110fde2e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "AtlasChonManSlot": {
+      "ver": "1.0.3",
+      "uuid": "d54e7ce5-8bb2-40f7-a173-d32dfd7ff8bd",
+      "rawTextureUuid": "ebe3ad2c-1eca-4e58-b893-51f6110fde2e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 806,
+      "height": 806,
+      "rawWidth": 806,
+      "rawHeight": 806,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

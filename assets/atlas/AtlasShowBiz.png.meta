@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0174c908-ec92-47d6-a6df-64c80b9ec1fb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "AtlasShowBiz": {
+      "ver": "1.0.3",
+      "uuid": "7009f3ec-93b6-440c-9d22-c72b6dcd065e",
+      "rawTextureUuid": "0174c908-ec92-47d6-a6df-64c80b9ec1fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1425,
+      "height": 1419,
+      "rawWidth": 1425,
+      "rawHeight": 1425,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
