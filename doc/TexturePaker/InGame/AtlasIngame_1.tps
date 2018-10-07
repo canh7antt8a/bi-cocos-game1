@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.9.4</string>
         <key>fileName</key>
-        <string>I:/Cocos/WorkSpace/Project_v1/doc/TexturePaker/InGame/AtlasIngame_1.tps</string>
+        <string>C:/Users/dungh/Desktop/biFirstProject/doc/TexturePaker/InGame/AtlasIngame_1.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -190,7 +190,108 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>Pictures</filename>
+            <filename>Pictures/ImgVienVangBauCua.png</filename>
+            <filename>Pictures/ImgXucXac.png</filename>
+            <filename>Pictures/KetQuaChanLeXocDia.png</filename>
+            <filename>Pictures/KetQuaCuTheXocDia.png</filename>
+            <filename>Pictures/Layer-1-copy.png</filename>
+            <filename>Pictures/login.png</filename>
+            <filename>Pictures/Logo.png</filename>
+            <filename>Pictures/pi.png</filename>
+            <filename>Pictures/setting.png</filename>
+            <filename>Pictures/TimeCountdownXocDia.png</filename>
+            <filename>Pictures/upload.png</filename>
+            <filename>Pictures/Avatar.png</filename>
+            <filename>Pictures/AvatarLose.png</filename>
+            <filename>Pictures/AvatarWait.png</filename>
+            <filename>Pictures/BanChoiMoi.png</filename>
+            <filename>Pictures/BgBlack.png</filename>
+            <filename>Pictures/BgCuaDatBauCua.png</filename>
+            <filename>Pictures/BgFeatureInGame.png</filename>
+            <filename>Pictures/BgInGame.png</filename>
+            <filename>Pictures/BgLichSuBauCua.png</filename>
+            <filename>Pictures/BgLichSuXocDia.png</filename>
+            <filename>Pictures/BgMoneyTo.png</filename>
+            <filename>Pictures/BgOCuocChanLeXocDia.png</filename>
+            <filename>Pictures/BgOCuocXocDia.png</filename>
+            <filename>Pictures/BgTenLoaiTo.png</filename>
+            <filename>Pictures/BgTimeCountDown.png</filename>
+            <filename>Pictures/BgTo.png</filename>
+            <filename>Pictures/BgTotalMoney.png</filename>
+            <filename>Pictures/BtnLoginFacebook.png</filename>
+            <filename>Pictures/BtnLoginGoogle.png</filename>
+            <filename>Pictures/BtnQuenMatKhau.png</filename>
+            <filename>Pictures/BtnTrang.png</filename>
+            <filename>Pictures/BtnVang.png</filename>
+            <filename>Pictures/button chat.png</filename>
+            <filename>Pictures/button.png</filename>
+            <filename>Pictures/ButtonBacInGame.png</filename>
+            <filename>Pictures/ButtonNapTienPi.png</filename>
+            <filename>Pictures/ButtonSlider.png</filename>
+            <filename>Pictures/ButtonU.png</filename>
+            <filename>Pictures/ButtonVangInGame.png</filename>
+            <filename>Pictures/ButtonXanhInGame.png</filename>
+            <filename>Pictures/Chip1.png</filename>
+            <filename>Pictures/Chip2.png</filename>
+            <filename>Pictures/Chip3.png</filename>
+            <filename>Pictures/Chip4.png</filename>
+            <filename>Pictures/Chip5.png</filename>
+            <filename>Pictures/Chip6.png</filename>
+            <filename>Pictures/Chip7.png</filename>
+            <filename>Pictures/Chip8.png</filename>
+            <filename>Pictures/Chip9.png</filename>
+            <filename>Pictures/Chip10.png</filename>
+            <filename>Pictures/ChipDo.png</filename>
+            <filename>Pictures/ChipLaCay.png</filename>
+            <filename>Pictures/ChipTim.png</filename>
+            <filename>Pictures/ChipXanh.png</filename>
+            <filename>Pictures/DiceTrang.png</filename>
+            <filename>Pictures/DiceXanh.png</filename>
+            <filename>Pictures/EffectBetState.png</filename>
+            <filename>Pictures/F1_B_game-bai_06.png</filename>
+            <filename>Pictures/Group-2.png</filename>
+            <filename>Pictures/Group-3.png</filename>
+            <filename>Pictures/IconCaiDat.png</filename>
+            <filename>Pictures/IconChat.png</filename>
+            <filename>Pictures/IconChatHistory.png</filename>
+            <filename>Pictures/IconMatCuoi.png</filename>
+            <filename>Pictures/IconMenu.png</filename>
+            <filename>Pictures/IconUpload.png</filename>
+            <filename>Pictures/ImgBat.png</filename>
+            <filename>Pictures/ImgBau.png</filename>
+            <filename>Pictures/ImgBichDo.png</filename>
+            <filename>Pictures/ImgBichVang.png</filename>
+            <filename>Pictures/ImgCa.png</filename>
+            <filename>Pictures/ImgChat.png</filename>
+            <filename>Pictures/ImgCoDo.png</filename>
+            <filename>Pictures/ImgCoVang.png</filename>
+            <filename>Pictures/ImgCua.png</filename>
+            <filename>Pictures/ImgDia.png</filename>
+            <filename>Pictures/ImgDraw.png</filename>
+            <filename>Pictures/ImgFaceDownCard.png</filename>
+            <filename>Pictures/ImgFullTo.png</filename>
+            <filename>Pictures/ImgFullToBlack.png</filename>
+            <filename>Pictures/ImgGa.png</filename>
+            <filename>Pictures/ImgHuou.png</filename>
+            <filename>Pictures/ImgKhungMenuGame.png</filename>
+            <filename>Pictures/ImgLapLanh.png</filename>
+            <filename>Pictures/ImgMuiTen.png</filename>
+            <filename>Pictures/ImgRoDo.png</filename>
+            <filename>Pictures/ImgRoVang.png</filename>
+            <filename>Pictures/ImgSlotWait.png</filename>
+            <filename>Pictures/ImgTepDo.png</filename>
+            <filename>Pictures/ImgTepVang.png</filename>
+            <filename>Pictures/ImgThang1.png</filename>
+            <filename>Pictures/ImgThang2.png</filename>
+            <filename>Pictures/ImgThang3.png</filename>
+            <filename>Pictures/ImgThang4.png</filename>
+            <filename>Pictures/ImgThang5.png</filename>
+            <filename>Pictures/ImgThanhCuonTo.png</filename>
+            <filename>Pictures/ImgThua.png</filename>
+            <filename>Pictures/ImgTimeCountDown.png</filename>
+            <filename>Pictures/ImgTom.png</filename>
+            <filename>Pictures/ImgVachTo.png</filename>
+            <filename>Pictures/ImgVienQuanBai.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

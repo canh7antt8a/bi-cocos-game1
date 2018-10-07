@@ -192,8 +192,11 @@
         <array>
             <filename>Pictures</filename>
         </array>
-        <key>ignoreFileList</key>
-        <array/>
+        <key>replaceList</key>
+        <array>
+            <string>.*/=</string> <!-- replace everything left of / with nothing -->
+        </array>
+        
         <key>replaceList</key>
         <array/>
         <key>ignoredWarnings</key>

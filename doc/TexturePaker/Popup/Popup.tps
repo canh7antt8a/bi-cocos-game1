@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.9.4</string>
         <key>fileName</key>
-        <string>C:/Users/HungPham/Desktop/TexturePaker/ImgPopup/Popup.tps</string>
+        <string>C:/Users/dungh/Desktop/biFirstProject/doc/TexturePaker/Popup/Popup.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -190,7 +190,71 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>Pictures</filename>
+            <filename>Pictures/ImgPlayer.png</filename>
+            <filename>Pictures/ImgScrollBar.png</filename>
+            <filename>Pictures/ImgSlider1.png</filename>
+            <filename>Pictures/ImgSound1.png</filename>
+            <filename>Pictures/ImgSound2.png</filename>
+            <filename>Pictures/IndexTop.png</filename>
+            <filename>Pictures/InputField.png</filename>
+            <filename>Pictures/Line.png</filename>
+            <filename>Pictures/loading.png</filename>
+            <filename>Pictures/magioithieu.png</filename>
+            <filename>Pictures/Mail.png</filename>
+            <filename>Pictures/Vs.png</filename>
+            <filename>Pictures/ActiveTab.png</filename>
+            <filename>Pictures/BanXanh.png</filename>
+            <filename>Pictures/bg_itemHistorySanThuong.png</filename>
+            <filename>Pictures/Bg_PopupEvent.png</filename>
+            <filename>Pictures/Bg_TransparentItemPopup.png</filename>
+            <filename>Pictures/BgButton.png</filename>
+            <filename>Pictures/bgItemBuyPotBauCua.png</filename>
+            <filename>Pictures/BgItemInapp.png</filename>
+            <filename>Pictures/BgItemSMS.png</filename>
+            <filename>Pictures/BgKiemXu.png</filename>
+            <filename>Pictures/BgLevel.png</filename>
+            <filename>Pictures/BgScrollLevel.png</filename>
+            <filename>Pictures/BgTop.png</filename>
+            <filename>Pictures/BgTop2.png</filename>
+            <filename>Pictures/bgVatPham.png</filename>
+            <filename>Pictures/bgWaningMSG.png</filename>
+            <filename>Pictures/BorderIndex.png</filename>
+            <filename>Pictures/BorderSMS.png</filename>
+            <filename>Pictures/bt2.png</filename>
+            <filename>Pictures/BtnBack.png</filename>
+            <filename>Pictures/BtnBackLeft.png</filename>
+            <filename>Pictures/btnDropDow.png</filename>
+            <filename>Pictures/btnOriginVuong.png</filename>
+            <filename>Pictures/BtnPopup.png</filename>
+            <filename>Pictures/BtnUThuong.png</filename>
+            <filename>Pictures/BtnUTron.png</filename>
+            <filename>Pictures/ButtonTranparent.png</filename>
+            <filename>Pictures/CheckBoxClick.png</filename>
+            <filename>Pictures/Close.png</filename>
+            <filename>Pictures/IconCall.png</filename>
+            <filename>Pictures/IconChip.png</filename>
+            <filename>Pictures/IconChuong.png</filename>
+            <filename>Pictures/IconExp.png</filename>
+            <filename>Pictures/IconFanpage.png</filename>
+            <filename>Pictures/iconHistory.png</filename>
+            <filename>Pictures/IconHumer.png</filename>
+            <filename>Pictures/IconInbox.png</filename>
+            <filename>Pictures/IconLevel.png</filename>
+            <filename>Pictures/iconNew.png</filename>
+            <filename>Pictures/IconReload.png</filename>
+            <filename>Pictures/IconTrash.png</filename>
+            <filename>Pictures/IconVuongNiem.png</filename>
+            <filename>Pictures/ImgCheckMusic.png</filename>
+            <filename>Pictures/ImgCheckMusic2.png</filename>
+            <filename>Pictures/ImgCheckRung.png</filename>
+            <filename>Pictures/ImgCheckRung2.png</filename>
+            <filename>Pictures/imgCode.png</filename>
+            <filename>Pictures/imgEmail.png</filename>
+            <filename>Pictures/imgFace.png</filename>
+            <filename>Pictures/imgGift.png</filename>
+            <filename>Pictures/imgInvite.png</filename>
+            <filename>Pictures/imgLike.png</filename>
+            <filename>Pictures/ImgLogout.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

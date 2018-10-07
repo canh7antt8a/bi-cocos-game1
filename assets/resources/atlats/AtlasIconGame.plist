@@ -7,7 +7,7 @@
             <key>IconGameBaCay.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{304,2},{250,250}}</string>
+                <string>{{402,2},{250,250}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -20,236 +20,236 @@
             <key>IconGameBauCua.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{304,254},{250,250}}</string>
+                <string>{{654,2},{212,179}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{212,179}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{212,179}</string>
             </dict>
             <key>IconGameLieng.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,304},{250,250}}</string>
+                <string>{{868,2},{200,171}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{200,171}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{200,171}</string>
             </dict>
             <key>IconGameMauBinh.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{556,2},{250,250}}</string>
+                <string>{{1476,2},{170,191}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{170,191}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{170,191}</string>
             </dict>
             <key>IconGameMiniPoker.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{556,254},{250,250}}</string>
+                <string>{{623,349},{180,154}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{180,154}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{180,154}</string>
             </dict>
             <key>IconGamePhom.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{808,2},{250,250}}</string>
+                <string>{{1070,2},{201,169}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{201,169}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{201,169}</string>
             </dict>
             <key>IconGamePoker.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{808,254},{250,250}}</string>
+                <string>{{1273,2},{201,169}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{201,169}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{201,169}</string>
             </dict>
             <key>IconGameRoulette.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1060,2},{250,250}}</string>
+                <string>{{1261,173},{183,167}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{183,167}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{183,167}</string>
             </dict>
             <key>IconGameSam.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1060,254},{250,250}}</string>
+                <string>{{805,349},{180,154}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{180,154}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{180,154}</string>
             </dict>
             <key>IconGameSanThuong.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{254,506},{250,250}}</string>
+                <string>{{868,175},{192,167}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{192,167}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{192,167}</string>
             </dict>
             <key>IconGameSlot.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,556},{250,250}}</string>
+                <string>{{2,2},{398,471}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{398,471}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{398,471}</string>
             </dict>
             <key>IconGameTLMN.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{506,506},{250,250}}</string>
+                <string>{{1070,173},{189,169}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{189,169}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{189,169}</string>
             </dict>
             <key>IconGameTaiXiu.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{758,506},{250,250}}</string>
+                <string>{{1446,174},{180,154}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{180,154}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{180,154}</string>
             </dict>
             <key>IconGameTamQuoc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1010,506},{250,250}}</string>
+                <string>{{1177,344},{180,154}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{180,154}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{180,154}</string>
             </dict>
             <key>IconGameTayDuKy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{300,300}}</string>
+                <string>{{1359,342},{180,154}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{300,300}}</string>
+                <string>{{0,0},{180,154}}</string>
                 <key>sourceSize</key>
-                <string>{300,300}</string>
+                <string>{180,154}</string>
             </dict>
             <key>IconGameVongQuay.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{254,758},{250,250}}</string>
+                <string>{{1541,330},{180,154}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{180,154}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{180,154}</string>
             </dict>
             <key>IconGameXiTo.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{506,758},{250,250}}</string>
+                <string>{{987,344},{188,159}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{188,159}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{188,159}</string>
             </dict>
             <key>IconGameXoSo.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{758,758},{250,250}}</string>
+                <string>{{654,183},{193,164}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{193,164}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{193,164}</string>
             </dict>
             <key>IconGameXocDia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1010,758},{250,250}}</string>
+                <string>{{402,254},{219,186}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{250,250}}</string>
+                <string>{{0,0},{219,186}}</string>
                 <key>sourceSize</key>
-                <string>{250,250}</string>
+                <string>{219,186}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -259,9 +259,9 @@
             <key>realTextureFileName</key>
             <string>AtlasIconGame.png</string>
             <key>size</key>
-            <string>{1312,1010}</string>
+            <string>{1758,505}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:37a71b0200ae5d413ea537ac41c465c1:fe1609fdb1c5863da1a418ee0ece55f8:4d6c1c817b5120473aa37b82389fb420$</string>
+            <string>$TexturePacker:SmartUpdate:913e4bbd7f250809a5205e215357b668:534c703cb38cc75f72291268b68641a0:4d6c1c817b5120473aa37b82389fb420$</string>
             <key>textureFileName</key>
             <string>AtlasIconGame.png</string>
         </dict>

@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>3.9.4</string>
         <key>fileName</key>
-        <string>I:/Cocos/WorkSpace/Project_v1/doc/TexturePaker/Feature/AtlasFeatures.tps</string>
+        <string>C:/Users/dungh/Desktop/biFirstProject/doc/TexturePaker/Feature/AtlasFeatures.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -190,7 +190,71 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>Pictures</filename>
+            <filename>Pictures/ButtonBackLobby.png</filename>
+            <filename>Pictures/ButtonExit.png</filename>
+            <filename>Pictures/ButtonFeatureBigCenter.png</filename>
+            <filename>Pictures/ButtonFeatureBigLeft.png</filename>
+            <filename>Pictures/ButtonFeatureBigRight.png</filename>
+            <filename>Pictures/ButtonFeatureSmall.png</filename>
+            <filename>Pictures/ButtonGamePressed.png</filename>
+            <filename>Pictures/ButtonMiniGame1.png</filename>
+            <filename>Pictures/ButtonMinigGame.png</filename>
+            <filename>Pictures/ButtonSendChat.png</filename>
+            <filename>Pictures/Exp.png</filename>
+            <filename>Pictures/game slot.png</filename>
+            <filename>Pictures/IconAvatarSmall.png</filename>
+            <filename>Pictures/IconBanThuong.png</filename>
+            <filename>Pictures/IconBanVip.png</filename>
+            <filename>Pictures/IconChucNang.png</filename>
+            <filename>Pictures/IconDaily.png</filename>
+            <filename>Pictures/IconGame.png</filename>
+            <filename>Pictures/IconGift.png</filename>
+            <filename>Pictures/IconGoldBox.png</filename>
+            <filename>Pictures/IconHu.png</filename>
+            <filename>Pictures/IconKiemXu.png</filename>
+            <filename>Pictures/IconMail.png</filename>
+            <filename>Pictures/IconMiniGame.png</filename>
+            <filename>Pictures/IconNapPi.png</filename>
+            <filename>Pictures/IconSplash.png</filename>
+            <filename>Pictures/IconThongBao.png</filename>
+            <filename>Pictures/IconXepHang.png</filename>
+            <filename>Pictures/IconXepHangSmall.png</filename>
+            <filename>Pictures/ImgBanThuong.png</filename>
+            <filename>Pictures/ImgBanVip.png</filename>
+            <filename>Pictures/ImgLapLanhMinigameIcon.png</filename>
+            <filename>Pictures/ImgLapLanhMinigameIcon1.png</filename>
+            <filename>Pictures/ImgLoeSangSplash.png</filename>
+            <filename>Pictures/ImgProgressBar.png</filename>
+            <filename>Pictures/ImgProgressBar1.png</filename>
+            <filename>Pictures/ImgTranparentCenter.png</filename>
+            <filename>Pictures/ImgTranparentLobby.png</filename>
+            <filename>Pictures/InputChatLobby.png</filename>
+            <filename>Pictures/InputNumber.png</filename>
+            <filename>Pictures/JarLight1.png</filename>
+            <filename>Pictures/JarLight2.png</filename>
+            <filename>Pictures/LineXanh.png</filename>
+            <filename>Pictures/Pi.png</filename>
+            <filename>Pictures/Seperater.png</filename>
+            <filename>Pictures/VienIconGame.png</filename>
+            <filename>Pictures/Vip.png</filename>
+            <filename>Pictures/winclub2409.png</filename>
+            <filename>Pictures/Xu.png</filename>
+            <filename>Pictures/Avatar.png</filename>
+            <filename>Pictures/BgBanThuong.png</filename>
+            <filename>Pictures/BgBanVip.png</filename>
+            <filename>Pictures/BgMiniGame.png</filename>
+            <filename>Pictures/BgNoThing.png</filename>
+            <filename>Pictures/BgNumberMail.png</filename>
+            <filename>Pictures/BgNumberNotice.png</filename>
+            <filename>Pictures/BgPhongCho.png</filename>
+            <filename>Pictures/BgTimeMinigameIcon.png</filename>
+            <filename>Pictures/BgTopNew.png</filename>
+            <filename>Pictures/BgTransparentFull.png</filename>
+            <filename>Pictures/BtnBack.png</filename>
+            <filename>Pictures/BtnBuy.png</filename>
+            <filename>Pictures/BtnChat.png</filename>
+            <filename>Pictures/BtnDoiThuong.png</filename>
+            <filename>Pictures/BtnSuKien.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

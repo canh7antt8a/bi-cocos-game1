@@ -85,6 +85,11 @@ cc.Class({
         AudioManager.instance.playButtonClick();
     },
 
+    openSettings: function () {
+        UiManager.openPopupSettings();
+        AudioManager.instance.playButtonClick();
+    },
+
     updateEventCount: function () {
         var labelComp = this.eventCountNode.getComponentInChildren(cc.Label);
         if (AuthUser.event_count > 0) {

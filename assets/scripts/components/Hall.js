@@ -19,6 +19,7 @@ cc.Class({
         showGameSlotListPrefabNode: cc.Node,
 
         onlyShowGameSlotId: -1,
+        gametypeIconFrames:[cc.SpriteFrame],
     },
 
     // use this for initialization
@@ -112,5 +113,10 @@ cc.Class({
         this.listGameSlotScrollView.node.active = !this.listGameSlotScrollView.node.active;
         this.showGameListNode.active = !this.showGameListNode.active;
         AudioManager.instance.playButtonClick();
+        if(this.listGameScrollView.node.active){
+            this.switchGameButton.node.getComponent(cc.Sprite).spriteFrame =this.gametypeIconFrames[1];
+        } else{
+            this.switchGameButton.node.getComponent(cc.Sprite).spriteFrame =this.gametypeIconFrames[0];
+        }
     }
 });
