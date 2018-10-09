@@ -84,6 +84,12 @@ cc.Class({
         UiManager.openNapXienModal();
         AudioManager.instance.playButtonClick();
     },
+    openDoiThuong: function () {
+        if (AuthUser.experience >= TinhNangManager.expCanViewGift) {
+            UiManager.openPopupDoiThuong();
+            AudioManager.instance.playButtonClick();
+        }
+    },
 
     openSettings: function () {
         UiManager.openPopupSettings();

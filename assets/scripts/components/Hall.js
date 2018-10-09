@@ -17,8 +17,10 @@ cc.Class({
         listGameSlotScrollView: cc.ScrollView,
         showGameListNode: cc.Node,
         showGameSlotListPrefabNode: cc.Node,
+        switchGameButton: cc.Button,
 
         onlyShowGameSlotId: -1,
+        floatShowGameSlotButton: 0,
         gametypeIconFrames:[cc.SpriteFrame],
     },
 
@@ -64,8 +66,10 @@ cc.Class({
         }
 
         if (this.hasGameSlot && gameSlotGroups.length > 0) {
-            showGameSlotListNode = cc.instantiate(this.showGameSlotListPrefabNode);
-            showGameSlotListNode.active = true;
+            if (!this.floatShowGameSlotButton) {
+                showGameSlotListNode = cc.instantiate(this.showGameSlotListPrefabNode);
+                showGameSlotListNode.active = true;
+            }
 
             // Init event click for game slot item
             if (this.onlyShowGameSlotId !== -1) {

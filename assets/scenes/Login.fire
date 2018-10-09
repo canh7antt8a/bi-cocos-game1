@@ -865,18 +865,18 @@
     "_N$lineHeight": 40,
     "_N$fontColor": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 0,
+      "g": 0,
+      "b": 0,
       "a": 255
     },
     "_N$placeholder": "Tên đăng nhập",
     "_N$placeholderFontSize": 24,
     "_N$placeholderFontColor": {
       "__type__": "cc.Color",
-      "r": 87,
-      "g": 75,
-      "b": 75,
+      "r": 109,
+      "g": 103,
+      "b": 103,
       "a": 255
     },
     "_N$maxLength": 50,
@@ -1149,18 +1149,18 @@
     "_N$lineHeight": 40,
     "_N$fontColor": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 0,
+      "g": 0,
+      "b": 0,
       "a": 255
     },
     "_N$placeholder": "Mật khẩu",
     "_N$placeholderFontSize": 24,
     "_N$placeholderFontColor": {
       "__type__": "cc.Color",
-      "r": 87,
-      "g": 75,
-      "b": 75,
+      "r": 109,
+      "g": 103,
+      "b": 103,
       "a": 255
     },
     "_N$maxLength": 50,
@@ -1869,8 +1869,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 232,
-      "height": 78
+      "width": 236,
+      "height": 84
     },
     "_rotationX": 0,
     "_rotationY": 0,
@@ -2027,8 +2027,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 232,
-      "height": 78
+      "width": 236,
+      "height": 81
     },
     "_rotationX": 0,
     "_rotationY": 0,
@@ -3267,18 +3267,18 @@
     "_N$lineHeight": 40,
     "_N$fontColor": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 0,
+      "g": 0,
+      "b": 0,
       "a": 255
     },
     "_N$placeholder": "Tên đăng nhập",
     "_N$placeholderFontSize": 24,
     "_N$placeholderFontColor": {
       "__type__": "cc.Color",
-      "r": 87,
-      "g": 75,
-      "b": 75,
+      "r": 109,
+      "g": 103,
+      "b": 103,
       "a": 255
     },
     "_N$maxLength": 80,
@@ -3472,18 +3472,18 @@
     "_N$lineHeight": 40,
     "_N$fontColor": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 0,
+      "g": 0,
+      "b": 0,
       "a": 255
     },
     "_N$placeholder": "Email",
     "_N$placeholderFontSize": 24,
     "_N$placeholderFontColor": {
       "__type__": "cc.Color",
-      "r": 87,
-      "g": 75,
-      "b": 75,
+      "r": 109,
+      "g": 103,
+      "b": 103,
       "a": 255
     },
     "_N$maxLength": 80,
@@ -3677,18 +3677,18 @@
     "_N$lineHeight": 40,
     "_N$fontColor": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 0,
+      "g": 0,
+      "b": 0,
       "a": 255
     },
     "_N$placeholder": "Mật khẩu",
     "_N$placeholderFontSize": 24,
     "_N$placeholderFontColor": {
       "__type__": "cc.Color",
-      "r": 87,
-      "g": 75,
-      "b": 75,
+      "r": 109,
+      "g": 103,
+      "b": 103,
       "a": 255
     },
     "_N$maxLength": 80,
@@ -3882,18 +3882,18 @@
     "_N$lineHeight": 40,
     "_N$fontColor": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 0,
+      "g": 0,
+      "b": 0,
       "a": 255
     },
     "_N$placeholder": "Nhập lại mật khẩu",
     "_N$placeholderFontSize": 24,
     "_N$placeholderFontColor": {
       "__type__": "cc.Color",
-      "r": 87,
-      "g": 75,
-      "b": 75,
+      "r": 109,
+      "g": 103,
+      "b": 103,
       "a": 255
     },
     "_N$maxLength": 80,
@@ -4090,18 +4090,18 @@
     "_N$lineHeight": 40,
     "_N$fontColor": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 0,
+      "g": 0,
+      "b": 0,
       "a": 255
     },
     "_N$placeholder": "Mã xác nhận",
     "_N$placeholderFontSize": 24,
     "_N$placeholderFontColor": {
       "__type__": "cc.Color",
-      "r": 87,
-      "g": 75,
-      "b": 75,
+      "r": 109,
+      "g": 103,
+      "b": 103,
       "a": 255
     },
     "_N$maxLength": 50,
@@ -4522,8 +4522,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 232,
-      "height": 78
+      "width": 236,
+      "height": 81
     },
     "_rotationX": 0,
     "_rotationY": 0,
@@ -4680,8 +4680,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 232,
-      "height": 78
+      "width": 236,
+      "height": 84
     },
     "_rotationX": 0,
     "_rotationY": 0,
