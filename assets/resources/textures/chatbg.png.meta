@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "ef4d7a61-46ff-42dc-829f-d3b7a81eaebb",
+  "uuid": "415f0e3c-5c49-4a3c-8975-a32323508f05",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
-    "AtlasIngame": {
+    "chatbg": {
       "ver": "1.0.3",
-      "uuid": "13e6e988-44b0-43b6-8793-1f619d442402",
-      "rawTextureUuid": "ef4d7a61-46ff-42dc-829f-d3b7a81eaebb",
+      "uuid": "bd0da552-e25a-4ad9-87c7-69c5bc6f1329",
+      "rawTextureUuid": "415f0e3c-5c49-4a3c-8975-a32323508f05",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -16,14 +16,14 @@
       "offsetY": 0,
       "trimX": 0,
       "trimY": 0,
-      "width": 1379,
-      "height": 1379,
-      "rawWidth": 1379,
-      "rawHeight": 1379,
+      "width": 271,
+      "height": 34,
+      "rawWidth": 271,
+      "rawHeight": 34,
       "borderTop": 0,
       "borderBottom": 0,
-      "borderLeft": 0,
-      "borderRight": 0,
+      "borderLeft": 17,
+      "borderRight": 22,
       "subMetas": {}
     }
   }
